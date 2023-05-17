@@ -56,6 +56,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -107,8 +112,13 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 500,
+		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -136,8 +146,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
+		"abr": "wildman",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -172,7 +182,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -186,28 +196,33 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
-		"price": 3000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 3000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 3000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,7 +252,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 7500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -267,7 +282,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 600,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -281,23 +296,38 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 10000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "reviveme",
-		"price": 250,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -322,12 +352,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -386,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 77
+	"total": 83
 }
